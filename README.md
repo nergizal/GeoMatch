@@ -1,4 +1,7 @@
 # 🌍 GeoMatch — Offline-First Geography Trivia & Flag Quiz
+<img width="295" height="615" alt="Ekran Resmi 2026-11-18 16 22 49" src="https://github.com/user-attachments/assets/eeb67fa7-258a-4e4c-910c-f10db1952160" />
+<img width="284" height="600" alt="Ekran Resmi 2026-11-18 16 21 56" src="https://github.com/user-attachments/assets/324043ad-f36a-4ce4-b166-2fa5b1652c3c" />
+
 
 **GeoMatch**, 195 ülkenin bayraklarını, başkentlerini ve coğrafi konumlarını tamamen çevrimdışı (offline-first) bir mimariyle öğreten, yüksek performanslı bir Flutter mobil bilgi yarışması oyunudur.
 
