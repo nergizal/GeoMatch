@@ -1,0 +1,2931 @@
+[
+  {
+    "code": "ad",
+    "name_en": "Andorra",
+    "name_tr": "Andorra",
+    "capitals_en": [
+      "Andorra la Vella"
+    ],
+    "capitals_tr": [
+      "Andorra la Vella"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/ad.svg"
+  },
+  {
+    "code": "ae",
+    "name_en": "United Arab Emirates",
+    "name_tr": "Birleşik Arap Emirlikleri",
+    "capitals_en": [
+      "Abu Dhabi"
+    ],
+    "capitals_tr": [
+      "Abu Dhabi"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ae.svg"
+  },
+  {
+    "code": "af",
+    "name_en": "Afghanistan",
+    "name_tr": "Afganistan",
+    "capitals_en": [
+      "Kabul"
+    ],
+    "capitals_tr": [
+      "Kabul"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/af.svg"
+  },
+  {
+    "code": "ag",
+    "name_en": "Antigua and Barbuda",
+    "name_tr": "Antigua ve Barbuda",
+    "capitals_en": [
+      "Saint John's"
+    ],
+    "capitals_tr": [
+      "Saint John's"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/ag.svg"
+  },
+  {
+    "code": "al",
+    "name_en": "Albania",
+    "name_tr": "Arnavutluk",
+    "capitals_en": [
+      "Tirana"
+    ],
+    "capitals_tr": [
+      "Tiran"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/al.svg"
+  },
+  {
+    "code": "am",
+    "name_en": "Armenia",
+    "name_tr": "Ermenistan",
+    "capitals_en": [
+      "Yerevan"
+    ],
+    "capitals_tr": [
+      "Yerevan"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/am.svg"
+  },
+  {
+    "code": "ao",
+    "name_en": "Angola",
+    "name_tr": "Angola",
+    "capitals_en": [
+      "Luanda"
+    ],
+    "capitals_tr": [
+      "Luanda"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ao.svg"
+  },
+  {
+    "code": "ar",
+    "name_en": "Argentina",
+    "name_tr": "Arjantin",
+    "capitals_en": [
+      "Buenos Aires"
+    ],
+    "capitals_tr": [
+      "Buenos Aires"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ar.svg"
+  },
+  {
+    "code": "at",
+    "name_en": "Austria",
+    "name_tr": "Avusturya",
+    "capitals_en": [
+      "Vienna"
+    ],
+    "capitals_tr": [
+      "Viyana"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/at.svg"
+  },
+  {
+    "code": "au",
+    "name_en": "Australia",
+    "name_tr": "Avustralya",
+    "capitals_en": [
+      "Canberra"
+    ],
+    "capitals_tr": [
+      "Canberra"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/au.svg"
+  },
+  {
+    "code": "az",
+    "name_en": "Azerbaijan",
+    "name_tr": "Azerbaycan",
+    "capitals_en": [
+      "Baku"
+    ],
+    "capitals_tr": [
+      "Bakü"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/az.svg"
+  },
+  {
+    "code": "ba",
+    "name_en": "Bosnia and Herzegovina",
+    "name_tr": "Bosna-Hersek",
+    "capitals_en": [
+      "Sarajevo"
+    ],
+    "capitals_tr": [
+      "Saraybosna"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/ba.svg"
+  },
+  {
+    "code": "bb",
+    "name_en": "Barbados",
+    "name_tr": "Barbados",
+    "capitals_en": [
+      "Bridgetown"
+    ],
+    "capitals_tr": [
+      "Bridgetown"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/bb.svg"
+  },
+  {
+    "code": "bd",
+    "name_en": "Bangladesh",
+    "name_tr": "Bangladeş",
+    "capitals_en": [
+      "Dhaka"
+    ],
+    "capitals_tr": [
+      "Dhaka"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/bd.svg"
+  },
+  {
+    "code": "be",
+    "name_en": "Belgium",
+    "name_tr": "Belçika",
+    "capitals_en": [
+      "Brussels"
+    ],
+    "capitals_tr": [
+      "Brüksel"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/be.svg"
+  },
+  {
+    "code": "bf",
+    "name_en": "Burkina Faso",
+    "name_tr": "Burkina Faso",
+    "capitals_en": [
+      "Ouagadougou"
+    ],
+    "capitals_tr": [
+      "Ouagadougou"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/bf.svg"
+  },
+  {
+    "code": "bg",
+    "name_en": "Bulgaria",
+    "name_tr": "Bulgaristan",
+    "capitals_en": [
+      "Sofia"
+    ],
+    "capitals_tr": [
+      "Sofya"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/bg.svg"
+  },
+  {
+    "code": "bh",
+    "name_en": "Bahrain",
+    "name_tr": "Bahreyn",
+    "capitals_en": [
+      "Manama"
+    ],
+    "capitals_tr": [
+      "Manama"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/bh.svg"
+  },
+  {
+    "code": "bi",
+    "name_en": "Burundi",
+    "name_tr": "Burundi",
+    "capitals_en": [
+      "Gitega"
+    ],
+    "capitals_tr": [
+      "Gitega"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/bi.svg"
+  },
+  {
+    "code": "bj",
+    "name_en": "Benin",
+    "name_tr": "Benin",
+    "capitals_en": [
+      "Porto-Novo"
+    ],
+    "capitals_tr": [
+      "Porto-Novo"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/bj.svg"
+  },
+  {
+    "code": "bn",
+    "name_en": "Brunei",
+    "name_tr": "Brunei",
+    "capitals_en": [
+      "Bandar Seri Begawan"
+    ],
+    "capitals_tr": [
+      "Bandar Seri Begawan"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/bn.svg"
+  },
+  {
+    "code": "bo",
+    "name_en": "Bolivia",
+    "name_tr": "Bolivya",
+    "capitals_en": [
+      "Sucre"
+    ],
+    "capitals_tr": [
+      "Sucre"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/bo.svg"
+  },
+  {
+    "code": "br",
+    "name_en": "Brazil",
+    "name_tr": "Brezilya",
+    "capitals_en": [
+      "Brasília"
+    ],
+    "capitals_tr": [
+      "Brasília"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/br.svg"
+  },
+  {
+    "code": "bs",
+    "name_en": "Bahamas",
+    "name_tr": "Bahamalar",
+    "capitals_en": [
+      "Nassau"
+    ],
+    "capitals_tr": [
+      "Nassau"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/bs.svg"
+  },
+  {
+    "code": "bt",
+    "name_en": "Bhutan",
+    "name_tr": "Butan",
+    "capitals_en": [
+      "Thimphu"
+    ],
+    "capitals_tr": [
+      "Thimphu"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/bt.svg"
+  },
+  {
+    "code": "bw",
+    "name_en": "Botswana",
+    "name_tr": "Botsvana",
+    "capitals_en": [
+      "Gaborone"
+    ],
+    "capitals_tr": [
+      "Gaborone"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/bw.svg"
+  },
+  {
+    "code": "by",
+    "name_en": "Belarus",
+    "name_tr": "Belarus",
+    "capitals_en": [
+      "Minsk"
+    ],
+    "capitals_tr": [
+      "Minsk"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/by.svg"
+  },
+  {
+    "code": "bz",
+    "name_en": "Belize",
+    "name_tr": "Belize",
+    "capitals_en": [
+      "Belmopan"
+    ],
+    "capitals_tr": [
+      "Belmopan"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/bz.svg"
+  },
+  {
+    "code": "ca",
+    "name_en": "Canada",
+    "name_tr": "Kanada",
+    "capitals_en": [
+      "Ottawa"
+    ],
+    "capitals_tr": [
+      "Ottawa"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ca.svg"
+  },
+  {
+    "code": "cd",
+    "name_en": "DR Congo",
+    "name_tr": "Kongo Demokratik Cumhuriyeti",
+    "capitals_en": [
+      "Kinshasa"
+    ],
+    "capitals_tr": [
+      "Kinshasa"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/cd.svg"
+  },
+  {
+    "code": "cf",
+    "name_en": "Central African Republic",
+    "name_tr": "Orta Afrika Cumhuriyeti",
+    "capitals_en": [
+      "Bangui"
+    ],
+    "capitals_tr": [
+      "Bangui"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/cf.svg"
+  },
+  {
+    "code": "cg",
+    "name_en": "Congo",
+    "name_tr": "Kongo Cumhuriyeti",
+    "capitals_en": [
+      "Brazzaville"
+    ],
+    "capitals_tr": [
+      "Brazzaville"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/cg.svg"
+  },
+  {
+    "code": "ch",
+    "name_en": "Switzerland",
+    "name_tr": "İsviçre",
+    "capitals_en": [
+      "Bern"
+    ],
+    "capitals_tr": [
+      "Bern"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ch.svg"
+  },
+  {
+    "code": "ci",
+    "name_en": "Ivory Coast",
+    "name_tr": "Fildişi Sahili",
+    "capitals_en": [
+      "Yamoussoukro"
+    ],
+    "capitals_tr": [
+      "Yamoussoukro"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ci.svg"
+  },
+  {
+    "code": "cl",
+    "name_en": "Chile",
+    "name_tr": "şili",
+    "capitals_en": [
+      "Santiago"
+    ],
+    "capitals_tr": [
+      "Santiago"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/cl.svg"
+  },
+  {
+    "code": "cm",
+    "name_en": "Cameroon",
+    "name_tr": "Kamerun",
+    "capitals_en": [
+      "Yaoundé"
+    ],
+    "capitals_tr": [
+      "Yaoundé"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/cm.svg"
+  },
+  {
+    "code": "cn",
+    "name_en": "China",
+    "name_tr": "çin",
+    "capitals_en": [
+      "Beijing"
+    ],
+    "capitals_tr": [
+      "Pekin"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/cn.svg"
+  },
+  {
+    "code": "co",
+    "name_en": "Colombia",
+    "name_tr": "Kolombiya",
+    "capitals_en": [
+      "Bogotá"
+    ],
+    "capitals_tr": [
+      "Bogotá"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/co.svg"
+  },
+  {
+    "code": "cr",
+    "name_en": "Costa Rica",
+    "name_tr": "Kosta Rika",
+    "capitals_en": [
+      "San José"
+    ],
+    "capitals_tr": [
+      "San José"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/cr.svg"
+  },
+  {
+    "code": "cu",
+    "name_en": "Cuba",
+    "name_tr": "Küba",
+    "capitals_en": [
+      "Havana"
+    ],
+    "capitals_tr": [
+      "Havana"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/cu.svg"
+  },
+  {
+    "code": "cv",
+    "name_en": "Cape Verde",
+    "name_tr": "Yeşil Burun",
+    "capitals_en": [
+      "Praia"
+    ],
+    "capitals_tr": [
+      "Praia"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/cv.svg"
+  },
+  {
+    "code": "cy",
+    "name_en": "Cyprus",
+    "name_tr": "Kıbrıs",
+    "capitals_en": [
+      "Nicosia"
+    ],
+    "capitals_tr": [
+      "Lefkoşa"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/cy.svg"
+  },
+  {
+    "code": "cz",
+    "name_en": "Czechia",
+    "name_tr": "çekya",
+    "capitals_en": [
+      "Prague"
+    ],
+    "capitals_tr": [
+      "Prag"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/cz.svg"
+  },
+  {
+    "code": "de",
+    "name_en": "Germany",
+    "name_tr": "Almanya",
+    "capitals_en": [
+      "Berlin"
+    ],
+    "capitals_tr": [
+      "Berlin"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/de.svg"
+  },
+  {
+    "code": "dj",
+    "name_en": "Djibouti",
+    "name_tr": "Cibuti",
+    "capitals_en": [
+      "Djibouti"
+    ],
+    "capitals_tr": [
+      "Djibouti"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/dj.svg"
+  },
+  {
+    "code": "dk",
+    "name_en": "Denmark",
+    "name_tr": "Danimarka",
+    "capitals_en": [
+      "Copenhagen"
+    ],
+    "capitals_tr": [
+      "Kopenhag"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/dk.svg"
+  },
+  {
+    "code": "dm",
+    "name_en": "Dominica",
+    "name_tr": "Dominika",
+    "capitals_en": [
+      "Roseau"
+    ],
+    "capitals_tr": [
+      "Roseau"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/dm.svg"
+  },
+  {
+    "code": "do",
+    "name_en": "Dominican Republic",
+    "name_tr": "Dominik Cumhuriyeti",
+    "capitals_en": [
+      "Santo Domingo"
+    ],
+    "capitals_tr": [
+      "Santo Domingo"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/do.svg"
+  },
+  {
+    "code": "dz",
+    "name_en": "Algeria",
+    "name_tr": "Cezayir",
+    "capitals_en": [
+      "Algiers"
+    ],
+    "capitals_tr": [
+      "Algiers"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/dz.svg"
+  },
+  {
+    "code": "ec",
+    "name_en": "Ecuador",
+    "name_tr": "Ekvador",
+    "capitals_en": [
+      "Quito"
+    ],
+    "capitals_tr": [
+      "Quito"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/ec.svg"
+  },
+  {
+    "code": "ee",
+    "name_en": "Estonia",
+    "name_tr": "Estonya",
+    "capitals_en": [
+      "Tallinn"
+    ],
+    "capitals_tr": [
+      "Tallinn"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/ee.svg"
+  },
+  {
+    "code": "eg",
+    "name_en": "Egypt",
+    "name_tr": "Mısır",
+    "capitals_en": [
+      "Cairo"
+    ],
+    "capitals_tr": [
+      "Kahire"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/eg.svg"
+  },
+  {
+    "code": "er",
+    "name_en": "Eritrea",
+    "name_tr": "Eritre",
+    "capitals_en": [
+      "Asmara"
+    ],
+    "capitals_tr": [
+      "Asmara"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/er.svg"
+  },
+  {
+    "code": "es",
+    "name_en": "Spain",
+    "name_tr": "İspanya",
+    "capitals_en": [
+      "Madrid"
+    ],
+    "capitals_tr": [
+      "Madrid"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/es.svg"
+  },
+  {
+    "code": "et",
+    "name_en": "Ethiopia",
+    "name_tr": "Etiyopya",
+    "capitals_en": [
+      "Addis Ababa"
+    ],
+    "capitals_tr": [
+      "Addis Ababa"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/et.svg"
+  },
+  {
+    "code": "fi",
+    "name_en": "Finland",
+    "name_tr": "Finlandiya",
+    "capitals_en": [
+      "Helsinki"
+    ],
+    "capitals_tr": [
+      "Helsinki"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/fi.svg"
+  },
+  {
+    "code": "fj",
+    "name_en": "Fiji",
+    "name_tr": "Fiji",
+    "capitals_en": [
+      "Suva"
+    ],
+    "capitals_tr": [
+      "Suva"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/fj.svg"
+  },
+  {
+    "code": "fm",
+    "name_en": "Micronesia",
+    "name_tr": "Mikronezya",
+    "capitals_en": [
+      "Palikir"
+    ],
+    "capitals_tr": [
+      "Palikir"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/fm.svg"
+  },
+  {
+    "code": "fr",
+    "name_en": "France",
+    "name_tr": "Fransa",
+    "capitals_en": [
+      "Paris"
+    ],
+    "capitals_tr": [
+      "Paris"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/fr.svg"
+  },
+  {
+    "code": "ga",
+    "name_en": "Gabon",
+    "name_tr": "Gabon",
+    "capitals_en": [
+      "Libreville"
+    ],
+    "capitals_tr": [
+      "Libreville"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/ga.svg"
+  },
+  {
+    "code": "gb",
+    "name_en": "United Kingdom",
+    "name_tr": "Birleşik Krallık",
+    "capitals_en": [
+      "London"
+    ],
+    "capitals_tr": [
+      "Londra"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/gb.svg"
+  },
+  {
+    "code": "gd",
+    "name_en": "Grenada",
+    "name_tr": "Grenada",
+    "capitals_en": [
+      "St. George's"
+    ],
+    "capitals_tr": [
+      "St. George's"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/gd.svg"
+  },
+  {
+    "code": "ge",
+    "name_en": "Georgia",
+    "name_tr": "Gürcistan",
+    "capitals_en": [
+      "Tbilisi"
+    ],
+    "capitals_tr": [
+      "Tbilisi"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/ge.svg"
+  },
+  {
+    "code": "gh",
+    "name_en": "Ghana",
+    "name_tr": "Gana",
+    "capitals_en": [
+      "Accra"
+    ],
+    "capitals_tr": [
+      "Accra"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/gh.svg"
+  },
+  {
+    "code": "gm",
+    "name_en": "Gambia",
+    "name_tr": "Gambiya",
+    "capitals_en": [
+      "Banjul"
+    ],
+    "capitals_tr": [
+      "Banjul"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/gm.svg"
+  },
+  {
+    "code": "gn",
+    "name_en": "Guinea",
+    "name_tr": "Gine",
+    "capitals_en": [
+      "Conakry"
+    ],
+    "capitals_tr": [
+      "Conakry"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/gn.svg"
+  },
+  {
+    "code": "gq",
+    "name_en": "Equatorial Guinea",
+    "name_tr": "Ekvator Ginesi",
+    "capitals_en": [
+      "Malabo"
+    ],
+    "capitals_tr": [
+      "Malabo"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/gq.svg"
+  },
+  {
+    "code": "gr",
+    "name_en": "Greece",
+    "name_tr": "Yunanistan",
+    "capitals_en": [
+      "Athens"
+    ],
+    "capitals_tr": [
+      "Atina"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/gr.svg"
+  },
+  {
+    "code": "gt",
+    "name_en": "Guatemala",
+    "name_tr": "Guatemala",
+    "capitals_en": [
+      "Guatemala City"
+    ],
+    "capitals_tr": [
+      "Guatemala City"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/gt.svg"
+  },
+  {
+    "code": "gw",
+    "name_en": "Guinea-Bissau",
+    "name_tr": "Gine-Bissau",
+    "capitals_en": [
+      "Bissau"
+    ],
+    "capitals_tr": [
+      "Bissau"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/gw.svg"
+  },
+  {
+    "code": "gy",
+    "name_en": "Guyana",
+    "name_tr": "Guyana",
+    "capitals_en": [
+      "Georgetown"
+    ],
+    "capitals_tr": [
+      "Georgetown"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/gy.svg"
+  },
+  {
+    "code": "hn",
+    "name_en": "Honduras",
+    "name_tr": "Honduras",
+    "capitals_en": [
+      "Tegucigalpa"
+    ],
+    "capitals_tr": [
+      "Tegucigalpa"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/hn.svg"
+  },
+  {
+    "code": "hr",
+    "name_en": "Croatia",
+    "name_tr": "Hırvatistan",
+    "capitals_en": [
+      "Zagreb"
+    ],
+    "capitals_tr": [
+      "Zagreb"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/hr.svg"
+  },
+  {
+    "code": "ht",
+    "name_en": "Haiti",
+    "name_tr": "Haiti",
+    "capitals_en": [
+      "Port-au-Prince"
+    ],
+    "capitals_tr": [
+      "Port-au-Prince"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/ht.svg"
+  },
+  {
+    "code": "hu",
+    "name_en": "Hungary",
+    "name_tr": "Macaristan",
+    "capitals_en": [
+      "Budapest"
+    ],
+    "capitals_tr": [
+      "Budapeşte"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/hu.svg"
+  },
+  {
+    "code": "id",
+    "name_en": "Indonesia",
+    "name_tr": "Endonezya",
+    "capitals_en": [
+      "Jakarta"
+    ],
+    "capitals_tr": [
+      "Jakarta"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/id.svg"
+  },
+  {
+    "code": "ie",
+    "name_en": "Ireland",
+    "name_tr": "İrlanda",
+    "capitals_en": [
+      "Dublin"
+    ],
+    "capitals_tr": [
+      "Dublin"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/ie.svg"
+  },
+  {
+    "code": "il",
+    "name_en": "Israel",
+    "name_tr": "İsrail",
+    "capitals_en": [
+      "Jerusalem"
+    ],
+    "capitals_tr": [
+      "Kudüs"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/il.svg"
+  },
+  {
+    "code": "in",
+    "name_en": "India",
+    "name_tr": "Hindistan",
+    "capitals_en": [
+      "New Delhi"
+    ],
+    "capitals_tr": [
+      "New Delhi"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/in.svg"
+  },
+  {
+    "code": "iq",
+    "name_en": "Iraq",
+    "name_tr": "Irak",
+    "capitals_en": [
+      "Baghdad"
+    ],
+    "capitals_tr": [
+      "Bağdat"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/iq.svg"
+  },
+  {
+    "code": "ir",
+    "name_en": "Iran",
+    "name_tr": "İran",
+    "capitals_en": [
+      "Tehran"
+    ],
+    "capitals_tr": [
+      "Tahran"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ir.svg"
+  },
+  {
+    "code": "is",
+    "name_en": "Iceland",
+    "name_tr": "İzlanda",
+    "capitals_en": [
+      "Reykjavik"
+    ],
+    "capitals_tr": [
+      "Reykjavik"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/is.svg"
+  },
+  {
+    "code": "it",
+    "name_en": "Italy",
+    "name_tr": "İtalya",
+    "capitals_en": [
+      "Rome"
+    ],
+    "capitals_tr": [
+      "Roma"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/it.svg"
+  },
+  {
+    "code": "jm",
+    "name_en": "Jamaica",
+    "name_tr": "Jamaika",
+    "capitals_en": [
+      "Kingston"
+    ],
+    "capitals_tr": [
+      "Kingston"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/jm.svg"
+  },
+  {
+    "code": "jo",
+    "name_en": "Jordan",
+    "name_tr": "ürdün",
+    "capitals_en": [
+      "Amman"
+    ],
+    "capitals_tr": [
+      "Amman"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/jo.svg"
+  },
+  {
+    "code": "jp",
+    "name_en": "Japan",
+    "name_tr": "Japonya",
+    "capitals_en": [
+      "Tokyo"
+    ],
+    "capitals_tr": [
+      "Tokyo"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/jp.svg"
+  },
+  {
+    "code": "ke",
+    "name_en": "Kenya",
+    "name_tr": "Kenya",
+    "capitals_en": [
+      "Nairobi"
+    ],
+    "capitals_tr": [
+      "Nairobi"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ke.svg"
+  },
+  {
+    "code": "kg",
+    "name_en": "Kyrgyzstan",
+    "name_tr": "Kırgızistan",
+    "capitals_en": [
+      "Bishkek"
+    ],
+    "capitals_tr": [
+      "Bishkek"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/kg.svg"
+  },
+  {
+    "code": "kh",
+    "name_en": "Cambodia",
+    "name_tr": "Kamboçya",
+    "capitals_en": [
+      "Phnom Penh"
+    ],
+    "capitals_tr": [
+      "Phnom Penh"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/kh.svg"
+  },
+  {
+    "code": "ki",
+    "name_en": "Kiribati",
+    "name_tr": "Kiribati",
+    "capitals_en": [
+      "South Tarawa"
+    ],
+    "capitals_tr": [
+      "South Tarawa"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/ki.svg"
+  },
+  {
+    "code": "km",
+    "name_en": "Comoros",
+    "name_tr": "Komorlar",
+    "capitals_en": [
+      "Moroni"
+    ],
+    "capitals_tr": [
+      "Moroni"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/km.svg"
+  },
+  {
+    "code": "kn",
+    "name_en": "Saint Kitts and Nevis",
+    "name_tr": "Saint Kitts ve Nevis",
+    "capitals_en": [
+      "Basseterre"
+    ],
+    "capitals_tr": [
+      "Basseterre"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/kn.svg"
+  },
+  {
+    "code": "kp",
+    "name_en": "North Korea",
+    "name_tr": "Kuzey Kore",
+    "capitals_en": [
+      "Pyongyang"
+    ],
+    "capitals_tr": [
+      "Pyongyang"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/kp.svg"
+  },
+  {
+    "code": "kr",
+    "name_en": "South Korea",
+    "name_tr": "Güney Kore",
+    "capitals_en": [
+      "Seoul"
+    ],
+    "capitals_tr": [
+      "Seul"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/kr.svg"
+  },
+  {
+    "code": "kw",
+    "name_en": "Kuwait",
+    "name_tr": "Kuveyt",
+    "capitals_en": [
+      "Kuwait City"
+    ],
+    "capitals_tr": [
+      "Kuwait City"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/kw.svg"
+  },
+  {
+    "code": "kz",
+    "name_en": "Kazakhstan",
+    "name_tr": "Kazakistan",
+    "capitals_en": [
+      "Astana"
+    ],
+    "capitals_tr": [
+      "Astana"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/kz.svg"
+  },
+  {
+    "code": "la",
+    "name_en": "Laos",
+    "name_tr": "Laos",
+    "capitals_en": [
+      "Vientiane"
+    ],
+    "capitals_tr": [
+      "Vientiane"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/la.svg"
+  },
+  {
+    "code": "lb",
+    "name_en": "Lebanon",
+    "name_tr": "Lübnan",
+    "capitals_en": [
+      "Beirut"
+    ],
+    "capitals_tr": [
+      "Beyrut"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/lb.svg"
+  },
+  {
+    "code": "lc",
+    "name_en": "Saint Lucia",
+    "name_tr": "Saint Lucia",
+    "capitals_en": [
+      "Castries"
+    ],
+    "capitals_tr": [
+      "Castries"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/lc.svg"
+  },
+  {
+    "code": "li",
+    "name_en": "Liechtenstein",
+    "name_tr": "Lihtenştayn",
+    "capitals_en": [
+      "Vaduz"
+    ],
+    "capitals_tr": [
+      "Vaduz"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/li.svg"
+  },
+  {
+    "code": "lk",
+    "name_en": "Sri Lanka",
+    "name_tr": "Sri Lanka",
+    "capitals_en": [
+      "Colombo"
+    ],
+    "capitals_tr": [
+      "Colombo"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/lk.svg"
+  },
+  {
+    "code": "lr",
+    "name_en": "Liberia",
+    "name_tr": "Liberya",
+    "capitals_en": [
+      "Monrovia"
+    ],
+    "capitals_tr": [
+      "Monrovia"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/lr.svg"
+  },
+  {
+    "code": "ls",
+    "name_en": "Lesotho",
+    "name_tr": "Lesotho",
+    "capitals_en": [
+      "Maseru"
+    ],
+    "capitals_tr": [
+      "Maseru"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/ls.svg"
+  },
+  {
+    "code": "lt",
+    "name_en": "Lithuania",
+    "name_tr": "Litvanya",
+    "capitals_en": [
+      "Vilnius"
+    ],
+    "capitals_tr": [
+      "Vilnius"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/lt.svg"
+  },
+  {
+    "code": "lu",
+    "name_en": "Luxembourg",
+    "name_tr": "Lüksemburg",
+    "capitals_en": [
+      "Luxembourg"
+    ],
+    "capitals_tr": [
+      "Luxembourg"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/lu.svg"
+  },
+  {
+    "code": "lv",
+    "name_en": "Latvia",
+    "name_tr": "Letonya",
+    "capitals_en": [
+      "Riga"
+    ],
+    "capitals_tr": [
+      "Riga"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/lv.svg"
+  },
+  {
+    "code": "ly",
+    "name_en": "Libya",
+    "name_tr": "Libya",
+    "capitals_en": [
+      "Tripoli"
+    ],
+    "capitals_tr": [
+      "Tripoli"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ly.svg"
+  },
+  {
+    "code": "ma",
+    "name_en": "Morocco",
+    "name_tr": "Fas",
+    "capitals_en": [
+      "Rabat"
+    ],
+    "capitals_tr": [
+      "Rabat"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ma.svg"
+  },
+  {
+    "code": "mc",
+    "name_en": "Monaco",
+    "name_tr": "Monako",
+    "capitals_en": [
+      "Monaco"
+    ],
+    "capitals_tr": [
+      "Monaco"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/mc.svg"
+  },
+  {
+    "code": "md",
+    "name_en": "Moldova",
+    "name_tr": "Moldova",
+    "capitals_en": [
+      "Chișinău"
+    ],
+    "capitals_tr": [
+      "Chișinău"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/md.svg"
+  },
+  {
+    "code": "me",
+    "name_en": "Montenegro",
+    "name_tr": "Karadağ",
+    "capitals_en": [
+      "Podgorica"
+    ],
+    "capitals_tr": [
+      "Podgorica"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/me.svg"
+  },
+  {
+    "code": "mg",
+    "name_en": "Madagascar",
+    "name_tr": "Madagaskar",
+    "capitals_en": [
+      "Antananarivo"
+    ],
+    "capitals_tr": [
+      "Antananarivo"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/mg.svg"
+  },
+  {
+    "code": "mh",
+    "name_en": "Marshall Islands",
+    "name_tr": "Marshall Adaları",
+    "capitals_en": [
+      "Majuro"
+    ],
+    "capitals_tr": [
+      "Majuro"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/mh.svg"
+  },
+  {
+    "code": "mk",
+    "name_en": "North Macedonia",
+    "name_tr": "Kuzey Makedonya",
+    "capitals_en": [
+      "Skopje"
+    ],
+    "capitals_tr": [
+      "Üsküp"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/mk.svg"
+  },
+  {
+    "code": "ml",
+    "name_en": "Mali",
+    "name_tr": "Mali",
+    "capitals_en": [
+      "Bamako"
+    ],
+    "capitals_tr": [
+      "Bamako"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ml.svg"
+  },
+  {
+    "code": "mm",
+    "name_en": "Myanmar",
+    "name_tr": "Myanmar",
+    "capitals_en": [
+      "Naypyidaw"
+    ],
+    "capitals_tr": [
+      "Naypyidaw"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/mm.svg"
+  },
+  {
+    "code": "mn",
+    "name_en": "Mongolia",
+    "name_tr": "Moğolistan",
+    "capitals_en": [
+      "Ulan Bator"
+    ],
+    "capitals_tr": [
+      "Ulan Bator"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/mn.svg"
+  },
+  {
+    "code": "mr",
+    "name_en": "Mauritania",
+    "name_tr": "Moritanya",
+    "capitals_en": [
+      "Nouakchott"
+    ],
+    "capitals_tr": [
+      "Nouakchott"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/mr.svg"
+  },
+  {
+    "code": "mt",
+    "name_en": "Malta",
+    "name_tr": "Malta",
+    "capitals_en": [
+      "Valletta"
+    ],
+    "capitals_tr": [
+      "Valletta"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/mt.svg"
+  },
+  {
+    "code": "mu",
+    "name_en": "Mauritius",
+    "name_tr": "Mauritius",
+    "capitals_en": [
+      "Port Louis"
+    ],
+    "capitals_tr": [
+      "Port Louis"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/mu.svg"
+  },
+  {
+    "code": "mv",
+    "name_en": "Maldives",
+    "name_tr": "Maldivler",
+    "capitals_en": [
+      "Malé"
+    ],
+    "capitals_tr": [
+      "Malé"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/mv.svg"
+  },
+  {
+    "code": "mw",
+    "name_en": "Malawi",
+    "name_tr": "Malavi",
+    "capitals_en": [
+      "Lilongwe"
+    ],
+    "capitals_tr": [
+      "Lilongwe"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/mw.svg"
+  },
+  {
+    "code": "mx",
+    "name_en": "Mexico",
+    "name_tr": "Meksika",
+    "capitals_en": [
+      "Mexico City"
+    ],
+    "capitals_tr": [
+      "Mexico City"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/mx.svg"
+  },
+  {
+    "code": "my",
+    "name_en": "Malaysia",
+    "name_tr": "Malezya",
+    "capitals_en": [
+      "Kuala Lumpur"
+    ],
+    "capitals_tr": [
+      "Kuala Lumpur"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/my.svg"
+  },
+  {
+    "code": "mz",
+    "name_en": "Mozambique",
+    "name_tr": "Mozambik",
+    "capitals_en": [
+      "Maputo"
+    ],
+    "capitals_tr": [
+      "Maputo"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/mz.svg"
+  },
+  {
+    "code": "na",
+    "name_en": "Namibia",
+    "name_tr": "Namibya",
+    "capitals_en": [
+      "Windhoek"
+    ],
+    "capitals_tr": [
+      "Windhoek"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/na.svg"
+  },
+  {
+    "code": "ne",
+    "name_en": "Niger",
+    "name_tr": "Nijer",
+    "capitals_en": [
+      "Niamey"
+    ],
+    "capitals_tr": [
+      "Niamey"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ne.svg"
+  },
+  {
+    "code": "ng",
+    "name_en": "Nigeria",
+    "name_tr": "Nijerya",
+    "capitals_en": [
+      "Abuja"
+    ],
+    "capitals_tr": [
+      "Abuja"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ng.svg"
+  },
+  {
+    "code": "ni",
+    "name_en": "Nicaragua",
+    "name_tr": "Nikaragua",
+    "capitals_en": [
+      "Managua"
+    ],
+    "capitals_tr": [
+      "Managua"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/ni.svg"
+  },
+  {
+    "code": "nl",
+    "name_en": "Netherlands",
+    "name_tr": "Hollanda",
+    "capitals_en": [
+      "Amsterdam"
+    ],
+    "capitals_tr": [
+      "Amsterdam"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/nl.svg"
+  },
+  {
+    "code": "no",
+    "name_en": "Norway",
+    "name_tr": "Norveç",
+    "capitals_en": [
+      "Oslo"
+    ],
+    "capitals_tr": [
+      "Oslo"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/no.svg"
+  },
+  {
+    "code": "np",
+    "name_en": "Nepal",
+    "name_tr": "Nepal",
+    "capitals_en": [
+      "Kathmandu"
+    ],
+    "capitals_tr": [
+      "Kathmandu"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/np.svg"
+  },
+  {
+    "code": "nr",
+    "name_en": "Nauru",
+    "name_tr": "Nauru",
+    "capitals_en": [
+      "Yaren"
+    ],
+    "capitals_tr": [
+      "Yaren"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/nr.svg"
+  },
+  {
+    "code": "nz",
+    "name_en": "New Zealand",
+    "name_tr": "Yeni Zelanda",
+    "capitals_en": [
+      "Wellington"
+    ],
+    "capitals_tr": [
+      "Wellington"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/nz.svg"
+  },
+  {
+    "code": "om",
+    "name_en": "Oman",
+    "name_tr": "Umman",
+    "capitals_en": [
+      "Muscat"
+    ],
+    "capitals_tr": [
+      "Muscat"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/om.svg"
+  },
+  {
+    "code": "pa",
+    "name_en": "Panama",
+    "name_tr": "Panama",
+    "capitals_en": [
+      "Panama City"
+    ],
+    "capitals_tr": [
+      "Panama City"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/pa.svg"
+  },
+  {
+    "code": "pe",
+    "name_en": "Peru",
+    "name_tr": "Peru",
+    "capitals_en": [
+      "Lima"
+    ],
+    "capitals_tr": [
+      "Lima"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/pe.svg"
+  },
+  {
+    "code": "pg",
+    "name_en": "Papua New Guinea",
+    "name_tr": "Papua Yeni Gine",
+    "capitals_en": [
+      "Port Moresby"
+    ],
+    "capitals_tr": [
+      "Port Moresby"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/pg.svg"
+  },
+  {
+    "code": "ph",
+    "name_en": "Philippines",
+    "name_tr": "Filipinler",
+    "capitals_en": [
+      "Manila"
+    ],
+    "capitals_tr": [
+      "Manila"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ph.svg"
+  },
+  {
+    "code": "pk",
+    "name_en": "Pakistan",
+    "name_tr": "Pakistan",
+    "capitals_en": [
+      "Islamabad"
+    ],
+    "capitals_tr": [
+      "Islamabad"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/pk.svg"
+  },
+  {
+    "code": "pl",
+    "name_en": "Poland",
+    "name_tr": "Polonya",
+    "capitals_en": [
+      "Warsaw"
+    ],
+    "capitals_tr": [
+      "Varşova"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/pl.svg"
+  },
+  {
+    "code": "ps",
+    "name_en": "Palestine",
+    "name_tr": "Filistin",
+    "capitals_en": [
+      "Ramallah"
+    ],
+    "capitals_tr": [
+      "Ramallah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/ps.svg"
+  },
+  {
+    "code": "pt",
+    "name_en": "Portugal",
+    "name_tr": "Portekiz",
+    "capitals_en": [
+      "Lisbon"
+    ],
+    "capitals_tr": [
+      "Lizbon"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/pt.svg"
+  },
+  {
+    "code": "pw",
+    "name_en": "Palau",
+    "name_tr": "Palau",
+    "capitals_en": [
+      "Ngerulmud"
+    ],
+    "capitals_tr": [
+      "Ngerulmud"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/pw.svg"
+  },
+  {
+    "code": "py",
+    "name_en": "Paraguay",
+    "name_tr": "Paraguay",
+    "capitals_en": [
+      "Asunción"
+    ],
+    "capitals_tr": [
+      "Asunción"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/py.svg"
+  },
+  {
+    "code": "qa",
+    "name_en": "Qatar",
+    "name_tr": "Katar",
+    "capitals_en": [
+      "Doha"
+    ],
+    "capitals_tr": [
+      "Doha"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/qa.svg"
+  },
+  {
+    "code": "ro",
+    "name_en": "Romania",
+    "name_tr": "Romanya",
+    "capitals_en": [
+      "Bucharest"
+    ],
+    "capitals_tr": [
+      "Bükreş"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/ro.svg"
+  },
+  {
+    "code": "rs",
+    "name_en": "Serbia",
+    "name_tr": "Sırbistan",
+    "capitals_en": [
+      "Belgrade"
+    ],
+    "capitals_tr": [
+      "Belgrad"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/rs.svg"
+  },
+  {
+    "code": "ru",
+    "name_en": "Russia",
+    "name_tr": "Rusya",
+    "capitals_en": [
+      "Moscow"
+    ],
+    "capitals_tr": [
+      "Moskova"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ru.svg"
+  },
+  {
+    "code": "rw",
+    "name_en": "Rwanda",
+    "name_tr": "Ruanda",
+    "capitals_en": [
+      "Kigali"
+    ],
+    "capitals_tr": [
+      "Kigali"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/rw.svg"
+  },
+  {
+    "code": "sa",
+    "name_en": "Saudi Arabia",
+    "name_tr": "Suudi Arabistan",
+    "capitals_en": [
+      "Riyadh"
+    ],
+    "capitals_tr": [
+      "Riyad"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/sa.svg"
+  },
+  {
+    "code": "sb",
+    "name_en": "Solomon Islands",
+    "name_tr": "Solomon Adaları",
+    "capitals_en": [
+      "Honiara"
+    ],
+    "capitals_tr": [
+      "Honiara"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/sb.svg"
+  },
+  {
+    "code": "sc",
+    "name_en": "Seychelles",
+    "name_tr": "Seyşeller",
+    "capitals_en": [
+      "Victoria"
+    ],
+    "capitals_tr": [
+      "Victoria"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/sc.svg"
+  },
+  {
+    "code": "sd",
+    "name_en": "Sudan",
+    "name_tr": "Sudan",
+    "capitals_en": [
+      "Khartoum"
+    ],
+    "capitals_tr": [
+      "Khartoum"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/sd.svg"
+  },
+  {
+    "code": "se",
+    "name_en": "Sweden",
+    "name_tr": "İsveç",
+    "capitals_en": [
+      "Stockholm"
+    ],
+    "capitals_tr": [
+      "Stokholm"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/se.svg"
+  },
+  {
+    "code": "sg",
+    "name_en": "Singapore",
+    "name_tr": "Singapur",
+    "capitals_en": [
+      "Singapore"
+    ],
+    "capitals_tr": [
+      "Singapore"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/sg.svg"
+  },
+  {
+    "code": "si",
+    "name_en": "Slovenia",
+    "name_tr": "Slovenya",
+    "capitals_en": [
+      "Ljubljana"
+    ],
+    "capitals_tr": [
+      "Ljubljana"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/si.svg"
+  },
+  {
+    "code": "sk",
+    "name_en": "Slovakia",
+    "name_tr": "Slovakya",
+    "capitals_en": [
+      "Bratislava"
+    ],
+    "capitals_tr": [
+      "Bratislava"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/sk.svg"
+  },
+  {
+    "code": "sl",
+    "name_en": "Sierra Leone",
+    "name_tr": "Sierra Leone",
+    "capitals_en": [
+      "Freetown"
+    ],
+    "capitals_tr": [
+      "Freetown"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/sl.svg"
+  },
+  {
+    "code": "sm",
+    "name_en": "San Marino",
+    "name_tr": "San Marino",
+    "capitals_en": [
+      "City of San Marino"
+    ],
+    "capitals_tr": [
+      "City of San Marino"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/sm.svg"
+  },
+  {
+    "code": "sn",
+    "name_en": "Senegal",
+    "name_tr": "Senegal",
+    "capitals_en": [
+      "Dakar"
+    ],
+    "capitals_tr": [
+      "Dakar"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/sn.svg"
+  },
+  {
+    "code": "so",
+    "name_en": "Somalia",
+    "name_tr": "Somali",
+    "capitals_en": [
+      "Mogadishu"
+    ],
+    "capitals_tr": [
+      "Mogadishu"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/so.svg"
+  },
+  {
+    "code": "sr",
+    "name_en": "Suriname",
+    "name_tr": "Surinam",
+    "capitals_en": [
+      "Paramaribo"
+    ],
+    "capitals_tr": [
+      "Paramaribo"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/sr.svg"
+  },
+  {
+    "code": "ss",
+    "name_en": "South Sudan",
+    "name_tr": "Güney Sudan",
+    "capitals_en": [
+      "Juba"
+    ],
+    "capitals_tr": [
+      "Juba"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ss.svg"
+  },
+  {
+    "code": "st",
+    "name_en": "São Tomé and Príncipe",
+    "name_tr": "São Tomé ve Príncipe",
+    "capitals_en": [
+      "São Tomé"
+    ],
+    "capitals_tr": [
+      "São Tomé"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/st.svg"
+  },
+  {
+    "code": "sv",
+    "name_en": "El Salvador",
+    "name_tr": "El Salvador",
+    "capitals_en": [
+      "San Salvador"
+    ],
+    "capitals_tr": [
+      "San Salvador"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/sv.svg"
+  },
+  {
+    "code": "sy",
+    "name_en": "Syria",
+    "name_tr": "Suriye",
+    "capitals_en": [
+      "Damascus"
+    ],
+    "capitals_tr": [
+      "Şam"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/sy.svg"
+  },
+  {
+    "code": "sz",
+    "name_en": "Eswatini",
+    "name_tr": "Esvatini",
+    "capitals_en": [
+      "Lobamba"
+    ],
+    "capitals_tr": [
+      "Lobamba"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/sz.svg"
+  },
+  {
+    "code": "td",
+    "name_en": "Chad",
+    "name_tr": "çad",
+    "capitals_en": [
+      "N'Djamena"
+    ],
+    "capitals_tr": [
+      "N'Djamena"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/td.svg"
+  },
+  {
+    "code": "tg",
+    "name_en": "Togo",
+    "name_tr": "Togo",
+    "capitals_en": [
+      "Lomé"
+    ],
+    "capitals_tr": [
+      "Lomé"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/tg.svg"
+  },
+  {
+    "code": "th",
+    "name_en": "Thailand",
+    "name_tr": "Tayland",
+    "capitals_en": [
+      "Bangkok"
+    ],
+    "capitals_tr": [
+      "Bangkok"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/th.svg"
+  },
+  {
+    "code": "tj",
+    "name_en": "Tajikistan",
+    "name_tr": "Tacikistan",
+    "capitals_en": [
+      "Dushanbe"
+    ],
+    "capitals_tr": [
+      "Dushanbe"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/tj.svg"
+  },
+  {
+    "code": "tl",
+    "name_en": "Timor-Leste",
+    "name_tr": "Doğu Timor",
+    "capitals_en": [
+      "Dili"
+    ],
+    "capitals_tr": [
+      "Dili"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/tl.svg"
+  },
+  {
+    "code": "tm",
+    "name_en": "Turkmenistan",
+    "name_tr": "Türkmenistan",
+    "capitals_en": [
+      "Ashgabat"
+    ],
+    "capitals_tr": [
+      "Ashgabat"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/tm.svg"
+  },
+  {
+    "code": "tn",
+    "name_en": "Tunisia",
+    "name_tr": "Tunus",
+    "capitals_en": [
+      "Tunis"
+    ],
+    "capitals_tr": [
+      "Tunis"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/tn.svg"
+  },
+  {
+    "code": "to",
+    "name_en": "Tonga",
+    "name_tr": "Tonga",
+    "capitals_en": [
+      "Nuku'alofa"
+    ],
+    "capitals_tr": [
+      "Nuku'alofa"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/to.svg"
+  },
+  {
+    "code": "tr",
+    "name_en": "Türkiye",
+    "name_tr": "Türkiye",
+    "capitals_en": [
+      "Ankara"
+    ],
+    "capitals_tr": [
+      "Ankara"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/tr.svg"
+  },
+  {
+    "code": "tt",
+    "name_en": "Trinidad and Tobago",
+    "name_tr": "Trinidad ve Tobago",
+    "capitals_en": [
+      "Port of Spain"
+    ],
+    "capitals_tr": [
+      "Port of Spain"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/tt.svg"
+  },
+  {
+    "code": "tv",
+    "name_en": "Tuvalu",
+    "name_tr": "Tuvalu",
+    "capitals_en": [
+      "Funafuti"
+    ],
+    "capitals_tr": [
+      "Funafuti"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/tv.svg"
+  },
+  {
+    "code": "tz",
+    "name_en": "Tanzania",
+    "name_tr": "Tanzanya",
+    "capitals_en": [
+      "Dodoma"
+    ],
+    "capitals_tr": [
+      "Dodoma"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/tz.svg"
+  },
+  {
+    "code": "ua",
+    "name_en": "Ukraine",
+    "name_tr": "Ukrayna",
+    "capitals_en": [
+      "Kyiv"
+    ],
+    "capitals_tr": [
+      "Kiev"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ua.svg"
+  },
+  {
+    "code": "ug",
+    "name_en": "Uganda",
+    "name_tr": "Uganda",
+    "capitals_en": [
+      "Kampala"
+    ],
+    "capitals_tr": [
+      "Kampala"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/ug.svg"
+  },
+  {
+    "code": "us",
+    "name_en": "United States",
+    "name_tr": "Amerika Birleşik Devletleri",
+    "capitals_en": [
+      "Washington D.C."
+    ],
+    "capitals_tr": [
+      "Washington D.C."
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/us.svg"
+  },
+  {
+    "code": "uy",
+    "name_en": "Uruguay",
+    "name_tr": "Uruguay",
+    "capitals_en": [
+      "Montevideo"
+    ],
+    "capitals_tr": [
+      "Montevideo"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 2,
+    "flag_asset": "assets/flags/uy.svg"
+  },
+  {
+    "code": "uz",
+    "name_en": "Uzbekistan",
+    "name_tr": "özbekistan",
+    "capitals_en": [
+      "Tashkent"
+    ],
+    "capitals_tr": [
+      "Tashkent"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/uz.svg"
+  },
+  {
+    "code": "va",
+    "name_en": "Vatican City",
+    "name_tr": "Vatikan",
+    "capitals_en": [
+      "Vatican City"
+    ],
+    "capitals_tr": [
+      "Vatican City"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/va.svg"
+  },
+  {
+    "code": "vc",
+    "name_en": "Saint Vincent and the Grenadines",
+    "name_tr": "Saint Vincent ve Grenadinler",
+    "capitals_en": [
+      "Kingstown"
+    ],
+    "capitals_tr": [
+      "Kingstown"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/vc.svg"
+  },
+  {
+    "code": "ve",
+    "name_en": "Venezuela",
+    "name_tr": "Venezuela",
+    "capitals_en": [
+      "Caracas"
+    ],
+    "capitals_tr": [
+      "Caracas"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ve.svg"
+  },
+  {
+    "code": "vn",
+    "name_en": "Vietnam",
+    "name_tr": "Vietnam",
+    "capitals_en": [
+      "Hanoi"
+    ],
+    "capitals_tr": [
+      "Hanoi"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/vn.svg"
+  },
+  {
+    "code": "vu",
+    "name_en": "Vanuatu",
+    "name_tr": "Vanuatu",
+    "capitals_en": [
+      "Port Vila"
+    ],
+    "capitals_tr": [
+      "Port Vila"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/vu.svg"
+  },
+  {
+    "code": "ws",
+    "name_en": "Samoa",
+    "name_tr": "Bağımsız Samoa Devleti",
+    "capitals_en": [
+      "Apia"
+    ],
+    "capitals_tr": [
+      "Apia"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "difficulty": 3,
+    "flag_asset": "assets/flags/ws.svg"
+  },
+  {
+    "code": "ye",
+    "name_en": "Yemen",
+    "name_tr": "Yemen",
+    "capitals_en": [
+      "Sana'a"
+    ],
+    "capitals_tr": [
+      "Sana'a"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/ye.svg"
+  },
+  {
+    "code": "za",
+    "name_en": "South Africa",
+    "name_tr": "Güney Afrika",
+    "capitals_en": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "capitals_tr": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/za.svg"
+  },
+  {
+    "code": "zm",
+    "name_en": "Zambia",
+    "name_tr": "Zambiya",
+    "capitals_en": [
+      "Lusaka"
+    ],
+    "capitals_tr": [
+      "Lusaka"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/zm.svg"
+  },
+  {
+    "code": "zw",
+    "name_en": "Zimbabwe",
+    "name_tr": "Zimbabve",
+    "capitals_en": [
+      "Harare"
+    ],
+    "capitals_tr": [
+      "Harare"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "difficulty": 1,
+    "flag_asset": "assets/flags/zw.svg"
+  }
+]
